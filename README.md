@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
+  <img src="./screen1.png" alt="Project Banner" width="100%">
 </p>
 
 # Horegallu 🧠
@@ -90,11 +90,11 @@ http://127.0.0.1:5000
 git clone <https://github.com/raynaengineer/ec2ran3rit>
 cd horegallu
 ## Project Documentation
-docs/screen1.png
+<img width="953" height="593" alt="screen1" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
 Someone scolded me.
-docs/screen2.png
+<img width="953" height="593" alt="screen2" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
 I am going to commit suicide.
-docs/screen3.png
+<img width="953" height="593" alt="screen3" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
 ##System Architecture Diagram
 <img width="953" height="593" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
 ## Workflow Diagram
