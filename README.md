@@ -86,8 +86,8 @@ Open in browser:
 
 http://127.0.0.1:5000
 
-```bash
-git clone <your-repo-link>
+
+git clone <https://github.com/raynaengineer/ec2ran3rit>
 cd horegallu
 ## Project Documentation
 docs/screen1.png
@@ -120,7 +120,7 @@ Response:
 ##Project Demo
 https://drive.google.com/file/d/1PK4L00XvJL4QHNu5sytNsueBkkXWvRIB/view?usp=sharing
 
-
+```bash
 
 
 
