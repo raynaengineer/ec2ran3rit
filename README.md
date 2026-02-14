@@ -89,6 +89,40 @@ http://127.0.0.1:5000
 ```bash
 git clone <your-repo-link>
 cd horegallu
+## Project Documentation
+docs/screen1.png
+Someone scolded me.
+docs/screen2.png
+I am going to commit suicide.
+docs/screen3.png
+##System Architecture Diagram
+<img width="953" height="593" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
+## Workflow Diagram
+docs/workflow.png
+#### Diagrams
+System Architecture:
+- Frontend communicates with Flask backend.
+- Backend processes input via ai.py.
+- Crisis detection runs before model call.
+- Ollama local API generates response.
+- Final response returned to UI.
+##API Documentation Section
+POST /chat
+Body:
+{
+  "message": "I feel anxious"
+}
+
+Response:
+{
+  "response": "You're feeling anxious right now..."
+}
+##Project Demo
+https://drive.google.com/file/d/1PK4L00XvJL4QHNu5sytNsueBkkXWvRIB/view?usp=sharing
+
+
+
+
 
 python -m venv venv
 source venv/bin/activate      # Linux/Mac
