@@ -91,10 +91,13 @@ git clone <https://github.com/raynaengineer/ec2ran3rit>
 cd horegallu
 ## Project Documentation
 <img width="953" height="593" alt="screen1" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
+##Project screenshot
+normal
+<img src="./screen1.png" alt="Project screenshot" width="100%">
 Someone scolded me.
-<img width="953" height="593" alt="screen2" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
+<img src="./screen2.png" alt="Project screenshot" width="100%">
 I am going to commit suicide.
-<img width="953" height="593" alt="screen3" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
+<img src="./screen3.png" alt="Project screenshot" width="100%">
 ##System Architecture Diagram
 <img width="953" height="593" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/916429a0-8396-445f-a2e7-06bbccb207b0" />
 ## Workflow Diagram
